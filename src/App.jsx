@@ -40,7 +40,7 @@ function App() {
       <Route path='/add' element={ <AddReminder getMessages={getMessages} />} />
   </Routes>
      </div>
-    </>
+    </>  
   )
 }
 
